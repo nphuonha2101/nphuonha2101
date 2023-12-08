@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1000&color=0556F3&center=true&vCenter=true&random=false&width=435&lines=Hello+there+%F0%9F%91%8B.+I'm+Nguyen+Phuong+Nha;Xin+ch%C3%A0o+%F0%9F%91%8B.+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Ph%C6%B0%C6%A1ng+Nh%C3%A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1000&color=0556F3&center=true&vCenter=true&random=false&width=435&lines=Hello+there+%F0%9F%91%8B.+I'm+Phuong+Nha+Nguyen;Xin+ch%C3%A0o+%F0%9F%91%8B.+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Ph%C6%B0%C6%A1ng+Nh%C3%A3)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=nphuonha2101&style=for-the-badge)
 
