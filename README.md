@@ -1,21 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1000&color=0556F3&center=true&vCenter=true&random=false&width=435&lines=Hello+there+%F0%9F%91%8B.+I'm+Phuong+Nha+Nguyen;Xin+ch%C3%A0o+%F0%9F%91%8B.+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Ph%C6%B0%C6%A1ng+Nh%C3%A3)](https://git.io/typing-svg)
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=nphuonha2101&style=for-the-badge)
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Phuong+Nha+Nguyen;Full+Stack+Developer;From+Backend+to+Frontend" alt="Phuong Nha Nguyen" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nphuonha2101&style=flat-square&color=2ecc71&label=PORTFOLIO+VIEWS" alt="nphuonha2101" />
+</p>
 
+<br />
 
-<!--
-**nphuonha2101/nphuonha2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro Section -->
+<div align="center" style="max-width: 700px;">
+  <p>
+    <strong>Crafting robust applications with Laravel, Next.js, and Spring Boot.</strong><br />
+    I bridge the gap between complex backends and organic user experiences.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Terminal Section -->
+<div align="left" style="max-width: 500px; margin: 0 auto;">
 
+```bash
+nphuonha@portfolio:~
+➜ ~ whoami
+full_stack_dev
+➜ ~ uptime
+1_year_experience
+➜ ~ skills
+["Laravel", "Next.js", "Spring Boot", "Docker"]
