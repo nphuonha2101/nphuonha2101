@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Phuong+Nha+Nguyen;Full+Stack+Developer;From+Backend+to+Frontend" alt="Phuong Nha Nguyen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Gluten&weight=800&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Phuong+Nha+Nguyen;Full+Stack+Developer;From+Backend+to+Frontend" alt="Phuong Nha Nguyen" />
 </p>
 
 <p align="center">
